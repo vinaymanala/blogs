@@ -53,8 +53,8 @@ At last, I can only say that AI is just a tool, not a master, let it work for yo
 
 ### References:
 
-1.<https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work>
+1. Mckinsey Report - <https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work>
 
-2.<https://time.com/7295195/ai-chatgpt-google-learning-school/>
+2. Time.Com Read - <https://time.com/7295195/ai-chatgpt-google-learning-school/>
 
-3.<https://youtube.com/shorts/qLVCEYaN59A?si=ZPC9QGvL3TD0HlXa>
+3. Youtube Video - <https://youtube.com/shorts/qLVCEYaN59A?si=ZPC9QGvL3TD0HlXa>
